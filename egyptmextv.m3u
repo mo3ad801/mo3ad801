@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://j.top4top.io/p_237108ekr1.jpg" group-title="",[color yellow]مرحبا بك في تطبيق MEX TV[/color]
 https://j.top4top.io/p_237108ekr1.jpg
-
 #EXTINF:-1 tvg-id="" tvg-name="omg tv" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1494578_p.png" group-title="Egypt",omg tv
 https://tv.sarhantv.com:443/tarik/tarik/973
 #EXTINF:-1 tvg-id="" tvg-name="Top Movies" tvg-logo="https://i.ibb.co/TqQ2BhY/top.png" group-title="Egypt",Top Movies
